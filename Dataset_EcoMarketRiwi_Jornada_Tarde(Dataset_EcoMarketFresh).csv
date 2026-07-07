@@ -1,0 +1,22 @@
+ClientName,City,Product,Category,DistributionCenter,OrderID,OrderDate,Quantity,UnitPrice,Stock
+Super Max,Bogot�,Apple Gala,Fruit,Center North,O1001,2026-05-01,10,2.5,100
+Super Max,Bogot�,Apple Gala,Fruit,Center North,O1002,2026-05-02,5,2.5,95
+Fresh Mart,Medell�n,Banana,Fruit,Center West,O1003,2026-05-02,20,1.2,180
+Fresh Mart,Medell�n,Banana,Fruit,Center West,O1004,2026-05-03,15,1.2,165
+Mini Shop,Cali,Whole Milk,Dairy,South Hub,O1005,2026-05-04,12,3.8,60
+Mini Shop,Cali,Whole Milk,Dairy,South Hub,O1006,2026-05-05,8,3.8,52
+Super Max,Barranquilla,Chicken Breast,Meat,Coastal DC,O1007,2026-05-06,25,6.5,70
+Super Max,Barranquilla,Chicken,Meat,Coastal DC,O1008,2026-05-07,10,6.5,60
+Eco Store,Cartagena,Rice 1kg,Grain,Coastal DC,O1009,2026-05-08,30,2,200
+Eco Store,Cartagena ,Rice 1kg,Grain,Coastal DC,O1010,2026-05-09,18,2,182
+Market One,Bucaramanga,Extra Virgin Olive Oil,Oil,East Hub,O1011,2026-05-10,6,8.9,40
+Market One,Bucaramanga,Extra Virgin Olive Oil,Oil,East Hub,O1012,2026-05-11,4,8.9,36
+Retail Co,Pereira,Eggs x12,Dairy,Coffee Center,O1013,2026-05-12,14,4.2,90
+Retail Co,Pereira,Dozen Eggs,Dairy,Coffee Center,O1014,2026-05-13,9,4.2,81
+Food Plus,Manizales,Tomato,Vegetable,Coffee Center,O1015,2026-05-14,22,1.8,120
+Food Plus,Manizales,Tomato,Vegetable,Coffee Center,O1016,2026-05-15,16,1.8,104
+Green Buy,Bogot�,Iceberg Lettuce,Vegetable,Center North,O1017,2026-05-16,11,1.1,50
+Green Buy,Bogot�,Iceberg Lettuce,Vegetable,Center North,O1018,2026-05-17,7,1.1,43
+Quick Food,C�cuta,Pasta,Grain,East Hub,O1019,2026-05-18,19,2.3,140
+Quick Food,C�cuta,Spaghetti,Grain,East Hub,O1020,2026-05-19,13,2.3,127
+,,,,,,,,,
